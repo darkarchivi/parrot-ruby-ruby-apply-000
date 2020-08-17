@@ -1,1 +1,2 @@
-def_parrot_
+def_parrot
+phrase = 

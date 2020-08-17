@@ -5,5 +5,3 @@ end
 def parrot
   phrase = parrot
 end
-
-  

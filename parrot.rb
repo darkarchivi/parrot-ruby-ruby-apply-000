@@ -1,12 +1,7 @@
-def #parrot
-  puts "Squawk!"
+def parrot
+puts "Squawk!"
 end
-parrot = "Squawk!"
+def parrot(phrase="Squawk!")
+puts phrase #{phrase}"
 end
-phrase = parrot
-end
-puts "Pretty bird!"
-end
-parrot = "Pratty bird!"
-end
-end
+def parrot(phrase="Squawk!")

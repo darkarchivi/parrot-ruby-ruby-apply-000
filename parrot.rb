@@ -7,4 +7,4 @@ phrase = "Squawk!"
 puts phrase
 "Squawk!"
 end
-
+def parrot()

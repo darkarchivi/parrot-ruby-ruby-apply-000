@@ -9,5 +9,5 @@ puts phrase
 end
 def parrot("Pretty bird!")
 phrase = "Squawk!"
-puts phrase, #{Pretty bird}!"
+puts "Pretty bird!"
 end

@@ -4,4 +4,6 @@ puts phrase
 end
 def parrot
   phrase = parrot
+  phrase = "Squawk!"
 end
+

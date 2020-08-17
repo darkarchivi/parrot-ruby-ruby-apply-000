@@ -8,6 +8,6 @@ puts phrase
 "Squawk!"
 end
 def parrot("Pretty bird!")
-phrase = "Squawk!"
-puts "Pretty bird!"
+phrase = "Pretty bird!"
+puts phrase
 end

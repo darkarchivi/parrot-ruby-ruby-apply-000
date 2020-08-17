@@ -1,2 +1,4 @@
 def_parrot
-phrase = 
+phrase = "Squawk!"
+puts phrase
+end

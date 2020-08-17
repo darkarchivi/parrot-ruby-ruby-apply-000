@@ -5,4 +5,3 @@ end
 def parrot_phrase
   phrase = "Squawk!"
 end
-
